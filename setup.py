@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='lgssm',
-      version='0.0.1',
+      version='1.0.0',
       description='A minimal Linear Gaussian State Space Model for pytorch.',
       url='git@github.com:rasmusbergpalm/pytorch-lgssm.git',
       maintainer='Rasmus Berg Palm',
